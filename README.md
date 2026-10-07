@@ -1,1 +1,2 @@
-# -dam2-proyecto-hostecontrol
+HosteControl
+Samuel Fiffe / Laura Martinez
