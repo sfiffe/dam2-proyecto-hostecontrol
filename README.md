@@ -1,2 +1,3 @@
 HosteControl
-Samuel Fiffe / Laura Martinez
+•	Samuel Fiffe — Rol: Product Owner / Desarrollador
+•	Laura Martínez — Rol: Scrum Master / Desarrollador
